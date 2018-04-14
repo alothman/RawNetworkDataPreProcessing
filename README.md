@@ -1,7 +1,7 @@
 # RawNetworkDataPreProcessing
 
 
-This repository contains Python code that applies the steps explained in the paper "Raw Network Traffic Data Preprocessing and Preparation for Automatic Analysis" which was published at this conference http://www.c-mric.com/ci2018
+This repository contains Python code that applies the steps explained in the paper "Raw Network Traffic Data Preprocessing and Preparation for Automatic Analysis" which was published at "Cyber Incident 2018" conference http://www.c-mric.com/ci2018
 
 As explained in the paper, the PCAP data that was used can found here: http://www.unb.ca/cic/datasets/botnet.html
 
